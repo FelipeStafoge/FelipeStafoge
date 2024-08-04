@@ -3,7 +3,7 @@
 </h1>
 <h2>I'm Felipe Stafoge and this is a little bit about me:</h2>
 <p>
-  💼Currently working full-time at Wikimee.
+  💼Currently working full-time as a front-end developer at Wikimee.
 </p>
 <p>
  📚Studying analysis and systems development.
