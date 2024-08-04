@@ -4,7 +4,9 @@
 <h2>I'm Felipe Stafoge and this is a little bit about me:</h2>
 <p>
   💼Currently working full-time at Wikimee.
-  📚Studying analysis and systems development
+</p>
+<p>
+ 📚Studying analysis and systems development.
 </p>
 <hr>
 <div style="display: inline_block" align="center">
