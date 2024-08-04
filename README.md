@@ -1,8 +1,10 @@
 <h1>
- Front-end developer ( React.js | TypeScript | JavaScript )
+ Hello!
 </h1>
+<h2>I'm Felipe Stafoge and this is a little bit about me:</h2>
 <p>
-  💼Currently working at Wikimee.
+  💼Currently working full-time at Wikimee.
+  📚Studying analysis and systems development
 </p>
 <hr>
 <div style="display: inline_block" align="center">
