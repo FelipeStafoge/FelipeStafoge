@@ -5,9 +5,6 @@
 <p>
   💼Currently working full-time as a front-end developer at Wikimee.
 </p>
-<p>
- 📚Studying analysis and systems development.
-</p>
 <hr>
 <div style="display: inline_block" align="center">
   <img height="57" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">&nbsp;
